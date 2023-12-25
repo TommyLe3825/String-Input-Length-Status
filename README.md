@@ -1,5 +1,6 @@
 # String-Input-Length-Status
-Exceptions
+Exceptions on Sololearn
+
 You are making a program to manage user names.
 
 A valid username needs to be minimum 4, maximum 20 characters long.
